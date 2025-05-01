@@ -1,3 +1,3 @@
 # Bem-vinde ao meu portifólio!
-## Repositório de Giovanna Montin 
+## Repositório de Giovanni Montin 
 > Este é apenas um esqueleto, ainda em desenvolvimento!
